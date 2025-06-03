@@ -7,27 +7,6 @@ import QtQuick
 Window {
     id: window
 
-    /* Your solution should contain these key features:
-
-    - Add image resources to your project and use them in your
-      design and try to show how the image URL might be changed
-      using bindings inside a string template expression.
-
-    - Add a font to your project and use a FontLoader to be able
-      to use the font in your Text components.
-
-    - Create re-usable items using inline components adding any
-      "required" properties where necessary
-
-    - Using bindings and signal handlers to connect your UI
-      elements to the provided tvControl object (below) so that
-      interacting with your Buttons for example, could change
-      the visible, enabled, or color of some of the other
-      elements based on the changed state of the tvControl
-      object’s properties.
-
-    */
-
     width: 240
     height: 740
     visible: true
