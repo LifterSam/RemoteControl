@@ -1,0 +1,28 @@
+<RCC>
+  <qresource prefix="/qt/qml/IntroToQtQuick/">
+    <file alias="Main.qml">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/Main.qml</file>
+    <file alias="fonts/Silkscreen/Silkscreen-Bold.ttf">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/fonts/Silkscreen/Silkscreen-Bold.ttf</file>
+    <file alias="fonts/Silkscreen/Silkscreen-Regular.ttf">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/fonts/Silkscreen/Silkscreen-Regular.ttf</file>
+    <file alias="images/cast_connected.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/cast_connected.svg</file>
+    <file alias="images/cast_white.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/cast_white.svg</file>
+    <file alias="images/closed_caption.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/closed_caption.svg</file>
+    <file alias="images/closed_caption_white.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/closed_caption_white.svg</file>
+    <file alias="images/fast_forward.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/fast_forward.svg</file>
+    <file alias="images/fast_rewind.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/fast_rewind.svg</file>
+    <file alias="images/hdr_on.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/hdr_on.svg</file>
+    <file alias="images/hdr_on_white.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/hdr_on_white.svg</file>
+    <file alias="images/mic.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/mic.svg</file>
+    <file alias="images/mic_white.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/mic_white.svg</file>
+    <file alias="images/minus.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/minus.svg</file>
+    <file alias="images/play_pause.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/play_pause.svg</file>
+    <file alias="images/plus.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/plus.svg</file>
+    <file alias="images/power.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/power.svg</file>
+    <file alias="images/settings.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/settings.svg</file>
+    <file alias="images/speaker.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/speaker.svg</file>
+    <file alias="images/speaker_muted.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/speaker_muted.svg</file>
+    <file alias="images/speaker_muted_white.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/speaker_muted_white.svg</file>
+    <file alias="images/volume_down.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/volume_down.svg</file>
+    <file alias="images/volume_up.svg">C:/QT_Testing/04_QML-for-Beginners-Challenges-Intro-Qt-Quick/StartingProject/images/volume_up.svg</file>
+  </qresource>
+</RCC>
+
